@@ -11,3 +11,5 @@ Genutzte Hardware:
 
 OLED Library:
 https://github.com/afiskon/stm32-ssd1306
+
+<img width="1852" height="1389" alt="Temperatur-Grad-Celsius" src="https://github.com/user-attachments/assets/20546940-cbac-4e49-8458-0f8ac119e5b6" />
